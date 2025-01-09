@@ -1,6 +1,6 @@
 I am Swati
 - 🌱 I’m currently learning C.
-- - 😄 Pronouns: she/her.
+- 😄 Pronouns: she/her.
 
 
 <!---
