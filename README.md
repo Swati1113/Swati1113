@@ -1,6 +1,6 @@
 BCA Student at GGSIPU 
-C|Java|Excel|Python|Power BI
-Data|Development|Design
+-C|Java|Excel|Python|Power BI
+-Data|Development|Design
 
 
 <!---
