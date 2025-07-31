@@ -1,6 +1,6 @@
-I am Swati
-- 🌱 I’m currently learning C.
-- 😄 Pronouns: she/her.
+BCA Student at GGSIPU 
+C|Java|Excel|Python|Power BI
+Data|Development|Design
 
 
 <!---
